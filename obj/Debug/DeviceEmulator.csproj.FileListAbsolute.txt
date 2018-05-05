@@ -1,0 +1,299 @@
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DeviceEmulator.exe.config
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DeviceEmulator.exe
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DeviceEmulator.pdb
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DotNetty.Buffers.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DotNetty.Codecs.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DotNetty.Codecs.Mqtt.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DotNetty.Common.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DotNetty.Handlers.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DotNetty.Transport.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Azure.Devices.Client.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Azure.Devices.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Data.Edm.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Data.OData.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Mono.Security.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Newtonsoft.Json.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\PCLCrypto.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\PInvoke.BCrypt.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\PInvoke.Kernel32.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\PInvoke.NCrypt.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\PInvoke.Windows.Core.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\System.Net.Http.Formatting.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\System.Spatial.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\System.Web.Http.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Validation.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DotNetty.Buffers.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DotNetty.Codecs.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DotNetty.Codecs.Mqtt.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DotNetty.Common.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DotNetty.Handlers.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\DotNetty.Transport.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Azure.Devices.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Data.Edm.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Data.OData.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Newtonsoft.Json.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\PCLCrypto.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\PInvoke.BCrypt.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\PInvoke.Kernel32.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\PInvoke.NCrypt.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\PInvoke.Windows.Core.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\System.Net.Http.Formatting.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\System.Spatial.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\System.Web.Http.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\Validation.xml
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\de\System.Spatial.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\es\System.Spatial.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\fr\System.Spatial.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\it\System.Spatial.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\ja\System.Spatial.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\ko\System.Spatial.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\ru\System.Spatial.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\obj\Debug\DeviceEmulator.csprojResolveAssemblyReference.cache
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.Controls.HeaderPanel.resources
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.CustomTrackBar.resources
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.AboutForm.resources
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.MainForm.resources
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.Properties.Resources.resources
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\obj\Debug\DeviceEmulator.csproj.GenerateResource.Cache
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\obj\Debug\DeviceEmulator.exe
+D:\CIE\Tools\Device Emulator\C#\DeviceEmulator\obj\Debug\DeviceEmulator.pdb
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DeviceEmulator.exe.config
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DeviceEmulator.exe
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DeviceEmulator.pdb
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Buffers.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Codecs.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Codecs.Mqtt.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Common.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Handlers.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Transport.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.Amqp.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.Devices.Client.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.Devices.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Data.Edm.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Data.OData.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Data.Services.Client.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Mono.Security.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\PCLCrypto.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.BCrypt.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.Kernel32.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.NCrypt.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.Windows.Core.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\System.Net.Http.Formatting.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\System.Spatial.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\System.Web.Http.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Validation.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Buffers.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Codecs.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Codecs.Mqtt.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Common.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Handlers.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Transport.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.Amqp.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.Devices.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Data.Edm.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Data.OData.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Data.Services.Client.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\PCLCrypto.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.BCrypt.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.Kernel32.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.NCrypt.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.Windows.Core.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\System.Net.Http.Formatting.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\System.Spatial.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\System.Web.Http.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\Validation.xml
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\it\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\de\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\es\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hans\System.Spatial.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hant\System.Spatial.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\ja\System.Spatial.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\it\System.Spatial.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\ru\System.Spatial.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\de\System.Spatial.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\ko\System.Spatial.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\fr\System.Spatial.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\bin\Debug\es\System.Spatial.resources.dll
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\obj\Debug\DeviceEmulator.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.Controls.HeaderPanel.resources
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.CustomTrackBar.resources
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.AboutForm.resources
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.MainForm.resources
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.Properties.Resources.resources
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\obj\Debug\DeviceEmulator.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\obj\Debug\DeviceEmulator.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\obj\Debug\DeviceEmulator.exe
+\\Mac\Home\Desktop\iothub-deviceemulator\DeviceEmulator\obj\Debug\DeviceEmulator.pdb
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DeviceEmulator.exe.config
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DeviceEmulator.exe
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DeviceEmulator.pdb
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Buffers.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Codecs.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Codecs.Mqtt.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Common.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Handlers.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Transport.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.Amqp.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.Devices.Client.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.Devices.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Data.Edm.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Data.OData.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Data.Services.Client.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Mono.Security.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\PCLCrypto.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.BCrypt.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.Kernel32.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.NCrypt.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.Windows.Core.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\System.Net.Http.Formatting.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\System.Spatial.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\System.Web.Http.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Validation.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Buffers.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Codecs.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Codecs.Mqtt.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Common.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Handlers.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\DotNetty.Transport.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.Amqp.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.Devices.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Data.Edm.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Data.OData.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Data.Services.Client.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\PCLCrypto.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.BCrypt.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.Kernel32.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.NCrypt.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\PInvoke.Windows.Core.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\System.Net.Http.Formatting.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\System.Spatial.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\System.Web.Http.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\Validation.xml
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\it\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\de\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\es\Microsoft.Data.OData.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hans\System.Spatial.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\zh-Hant\System.Spatial.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\ja\System.Spatial.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\it\System.Spatial.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\ru\System.Spatial.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\de\System.Spatial.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\ko\System.Spatial.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\fr\System.Spatial.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\bin\Debug\es\System.Spatial.resources.dll
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\obj\Debug\DeviceEmulator.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.Controls.HeaderPanel.resources
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.CustomTrackBar.resources
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.AboutForm.resources
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.MainForm.resources
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\obj\Debug\Microsoft.AzureCat.Samples.DeviceEmulator.Properties.Resources.resources
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\obj\Debug\DeviceEmulator.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\obj\Debug\DeviceEmulator.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\obj\Debug\DeviceEmulator.exe
+\\Mac\Home\Desktop\Files\iothub-deviceemulator\DeviceEmulator\obj\Debug\DeviceEmulator.pdb
